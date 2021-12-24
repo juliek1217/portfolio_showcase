@@ -6,9 +6,9 @@ My previous works
 ● Fixed front-end bugs/issues and tested in multiple browsers to ensure cross-browser compatibility.
 
 
-
+<div align="center" width="80" height="80">
 ![gif](https://github.com/juliek1217/portfolio_showcase/blob/main/washmall/washmall1.gif?raw=true)
-
+</div>
 
 # Washmall
 Developed fully functional responsive front-end of cleaning products e-commerce website using HTML5 and CSS3, backed by jQuery and JavaScript to enable optimal user experience.
