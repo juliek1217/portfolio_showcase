@@ -7,6 +7,7 @@ My previous works
 
 
 
+![gif](https://github.com/juliek1217/juliek1217.github.io/blob/main/course_techtree.gif?raw=true)
 
 
 # Washmall
