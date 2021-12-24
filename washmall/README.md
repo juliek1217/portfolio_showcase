@@ -1,31 +1,31 @@
 # Washmall
-My previous works
-● Developed fully functional responsive front-end of cleaning products e-commerce website using HTML5 and CSS3, backed by jQuery and JavaScript to enable optimal user experience.
-● Collaborated with web designers and product managers to build a clean, intuitive and responsive UI.
-● Improved FCP speed from 2.5 seconds to 1.5 seconds by reducing DOM size - pagination, image format update, code refactoring and removing code redundancy.
-● Fixed front-end bugs/issues and tested in multiple browsers to ensure cross-browser compatibility.
+### Developed fully functional responsive front-end of cleaning products e-commerce website using HTML5 and CSS3, backed by jQuery and JavaScript to enable optimal user experience.
+### Collaborated with web designers and product managers to build a clean, intuitive and responsive UI.
+### Improved FCP speed from 2.5 seconds to 1.5 seconds by reducing DOM size - pagination, image format update, code refactoring and removing code redundancy.
+### Fixed front-end bugs/issues and tested in multiple browsers to ensure cross-browser compatibility.
 
+<!-- ![gif](https://github.com/juliek1217/portfolio_showcase/blob/main/washmall/washmall1.gif?raw=true) -->
 
-<div align="center" width="80" height="80">
-![gif](https://github.com/juliek1217/portfolio_showcase/blob/main/washmall/washmall1.gif?raw=true)
+<div align="center">
+  <img src="https://github.com/juliek1217/portfolio_showcase/blob/main/washmall/washmall1.gif?raw=true" width="500" height="230"/>
+  <img src="https://github.com/juliek1217/portfolio_showcase/blob/main/washmall/washmall2.gif?raw=true" width="500" height="230"/>
+  <img src="https://github.com/juliek1217/portfolio_showcase/blob/main/washmall/washmall3.gif?raw=true" width="500" height="230"/>
+  <img src="https://github.com/juliek1217/portfolio_showcase/blob/main/washmall/washmall4.gif?raw=true" width="500" height="230"/>
 </div>
 
-# Washmall
+
+<!-- # Washmall
 Developed fully functional responsive front-end of cleaning products e-commerce website using HTML5 and CSS3, backed by jQuery and JavaScript to enable optimal user experience.
 
-https://github.com/juliek1217/juliek1217.github.io/blob/main/course_techtree.gif?raw=true\
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
 
 
-
-<div id="top"></div>
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -252,4 +252,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.png -->
